@@ -158,7 +158,8 @@ Execute the programs and publish them.
 
 ![image](https://github.com/andralikitha/NearMe/assets/131592130/10183083-ff04-443c-a470-3276a8690ff6)
 
-![image](https://github.com/Yugendaran/NearMe/assets/128135616/4f8606de-6a76-4649-ae21-b5896a92b059)
+![image](https://github.com/andralikitha/NearMe/assets/131592130/4bf7e787-706f-4201-bcfa-81e92d8be8c4)
+
 ![image](https://github.com/Yugendaran/NearMe/assets/128135616/0368523f-82ea-4eef-b2ea-ea1cb529632c)
 
 
